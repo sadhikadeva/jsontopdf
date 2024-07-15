@@ -1,0 +1,1650 @@
+{
+    "summary": {
+        "Products and Services": {
+            "Products": [
+                {
+                    "Product Name": "LLM-powered App Development",
+                    "Description": "Harness smart algorithms to design intuitive and engaging end-user experiences, automate coding tasks, and innovate at the speed of thought.",
+                    "Category": "App Development",
+                    "Features": "Smart algorithms, intuitive user experiences, coding automation"
+                },
+                {
+                    "Product Name": "Generative AI for User Experience",
+                    "Description": "Enhance user interactions with smart, conversational AI chatbots and empower sales teams with virtual assistants rich in product insights and tailored offers.",
+                    "Category": "AI User Experience",
+                    "Features": "Conversational AI, virtual assistants, tailored offers"
+                },
+                {
+                    "Product Name": "Generative AI for Process Automation",
+                    "Description": "Transform routine workflows with AI-driven automation tools, streamlining operations and boosting efficiency through data-driven insights for optimal process management.",
+                    "Category": "Process Automation",
+                    "Features": "AI-driven automation, data-driven insights, process management"
+                },
+                {
+                    "Product Name": "Product 1",
+                    "Description": "Description of Product 1",
+                    "Category": "Category of Product 1",
+                    "Features": [
+                        "Feature 1",
+                        "Feature 2"
+                    ]
+                },
+                {
+                    "Product Name": "Product 2",
+                    "Description": "Description of Product 2",
+                    "Category": "Category of Product 2",
+                    "Features": [
+                        "Feature 1",
+                        "Feature 2"
+                    ]
+                },
+                {
+                    "Product Name": "ExtJS Migration Solutions",
+                    "Description": "Re-architect and migrate ExtJS applications to new technologies.",
+                    "Category": "Technology Migration",
+                    "Features": "Smooth technology shift, cost reduction, data security enhancement, business growth, enhanced scalability"
+                },
+                {
+                    "Product Name": "CRM Dashboard",
+                    "Description": "Safe and secure CRM dashboard solution.",
+                    "Category": "Business Software",
+                    "Features": "Provides a clear overview of customer data and interactions."
+                },
+                {
+                    "Product Name": "Khata App",
+                    "Description": "Financial management app for businesses.",
+                    "Category": "Finance",
+                    "Features": "Helps in managing accounts and transactions."
+                },
+                {
+                    "Product Name": "Enterprise Content Management Solutions - CMS Services",
+                    "Description": "Services related to content management systems",
+                    "Category": "IT Services",
+                    "Features": "Theme development, custom modules, content migration, workflows"
+                },
+                {
+                    "Product Name": "EngazeWell \u2013 Mobile App",
+                    "Description": "Description of the mobile app",
+                    "Category": "Mobile Application",
+                    "Features": "List of key features"
+                },
+                {
+                    "Product Name": "Little Tales \u2013 A Web App for Writers",
+                    "Description": "Description of the web app",
+                    "Category": "Web Application",
+                    "Features": "List of key features"
+                },
+                {
+                    "Product Name": "Responsive app for Sencha Theming Contest",
+                    "Description": "Description of the responsive app",
+                    "Category": "Web Application",
+                    "Features": "List of key features"
+                },
+                {
+                    "Product Name": "LangChain Solutions",
+                    "Description": "Description of LangChain Solutions.",
+                    "Category": "Technology",
+                    "Features": "Key features of LangChain Solutions."
+                },
+                {
+                    "Product Name": "TAP eCAI",
+                    "Description": "Description of TAP eCAI.",
+                    "Category": "Technology",
+                    "Features": "Key features of TAP eCAI."
+                },
+                {
+                    "Product Name": "Factoid Intellexi",
+                    "Description": "Description of Factoid Intellexi.",
+                    "Category": "Technology",
+                    "Features": "Key features of Factoid Intellexi."
+                },
+                {
+                    "Product Name": "Aspira Resume Parser",
+                    "Description": "Description of Aspira Resume Parser.",
+                    "Category": "Technology",
+                    "Features": "Key features of Aspira Resume Parser."
+                },
+                {
+                    "Product Name": "Data Engineering Services",
+                    "Description": "Create meaningful trajectory for analytics-driven operations and generate actionable business insights.",
+                    "Category": "IT Services",
+                    "Features": "Data Discovery, Data Maturity Assessment, Data Sanitation, Data Modeling"
+                }
+            ],
+            "Services": [
+                {
+                    "Service Name": "AI Strategy and Roadmap Planning",
+                    "Description": "We evaluate your AI readiness and craft an actionable GenAI adoption plan, ensuring seamless integration, intuitive prioritization, and effective risk management.",
+                    "Category": "AI Strategy",
+                    "Features": "AI readiness evaluation, adoption plan, risk management"
+                },
+                {
+                    "Service Name": "Generative AI Integration",
+                    "Description": "We offer expert guidance and tailored solutions for the seamless and responsible incorporation of Generative AI into your business workflows, boosting efficiency and innovation.",
+                    "Category": "AI Integration",
+                    "Features": "Expert guidance, tailored solutions, workflow incorporation"
+                },
+                {
+                    "Service Name": "Model Customization",
+                    "Description": "We tailor and fine-tune Generative AI models to your unique needs meeting desired performance metrics and ensuring optimal performance and specific business outcomes.",
+                    "Category": "AI Model Customization",
+                    "Features": "Model tailoring, performance metrics, business outcomes"
+                },
+                {
+                    "Service Name": "Data Synthesis and Augmentation",
+                    "Description": "Generate synthetic data sets that mimic real-world data, enabling more robust model training and testing without compromising privacy or security.",
+                    "Category": "Data Synthesis",
+                    "Features": "Synthetic data generation, robust model training, privacy protection"
+                },
+                {
+                    "Service Name": "Conversational AI",
+                    "Description": "Elevate customer engagement with sophisticated AI chatbots and virtual assistants that provide seamless, intuitive, and human-like interactions across various platforms.",
+                    "Category": "AI Customer Engagement",
+                    "Features": "Chatbots, virtual assistants, customer engagement"
+                },
+                {
+                    "Service Name": "AI-Driven Insights and Analytics",
+                    "Description": "Transform data into actionable insights with AI-powered analytics, uncovering trends, patterns, and predictions to inform strategic decision-making and drive business growth.",
+                    "Category": "AI Analytics",
+                    "Features": "Actionable insights, trend analysis, strategic decision-making"
+                },
+                {
+                    "Service Name": "LLMOps",
+                    "Description": "We at WalkingTree operationalize LLM-based apps through LLMOps services ensuring reliable deployment and scaling of LLM-based applications while emphasizing ethical AI practices.",
+                    "Category": "LLM Operations",
+                    "Features": "Operationalization, deployment, scaling, ethical AI practices"
+                },
+                {
+                    "Service Name": "Service 1",
+                    "Description": "Description of Service 1",
+                    "Category": "Category of Service 1",
+                    "Features": [
+                        "Feature 1",
+                        "Feature 2"
+                    ]
+                },
+                {
+                    "Service Name": "Service 2",
+                    "Description": "Description of Service 2",
+                    "Category": "Category of Service 2",
+                    "Features": [
+                        "Feature 1",
+                        "Feature 2"
+                    ]
+                },
+                {
+                    "Service Name": "Data Engineering Services",
+                    "Description": "Create meaningful trajectory for analytics-driven operations and generate actionable business insights through data engineering services.",
+                    "Category": "Analytics",
+                    "Features": []
+                },
+                {
+                    "Service Name": "Conversational AI",
+                    "Description": "Service description here",
+                    "Category": "AI Solutions",
+                    "Features": []
+                },
+                {
+                    "Service Name": "Generative AI Services",
+                    "Description": "Service description here",
+                    "Category": "AI Solutions",
+                    "Features": []
+                },
+                {
+                    "Service Name": "Data Visualization",
+                    "Description": "Service description here",
+                    "Category": "Data Analytics",
+                    "Features": []
+                },
+                {
+                    "Service Name": "Data Maturity Assessment",
+                    "Description": "Keep data fresh, contextually relevant, error-free, and inch-precise with rigorous maturity assessment.",
+                    "Category": "Data Services",
+                    "Features": "Identifying and getting rid of redundant, inaccurate, outdated, and irrelevant data."
+                },
+                {
+                    "Service Name": "Data Sanitation",
+                    "Description": "Sanitize data from all potential security threats and vulnerabilities consistently to keep business risks at bay.",
+                    "Category": "Data Services",
+                    "Features": "Preventing and controlling access to sensitive and mission-critical information."
+                },
+                {
+                    "Service Name": "Data Modeling",
+                    "Description": "Make data speak, act, and bring intelligent automation through powerful data modeling.",
+                    "Category": "Data Services",
+                    "Features": "Creating highly domain-optimized data models ensuring rich context-aware output for specific industry use cases."
+                },
+                {
+                    "Service Name": "Data Mining",
+                    "Description": "Dig deeper into the data pool to find the right trajectory of data-centric processes.",
+                    "Category": "Data Services",
+                    "Features": "Uncovering hidden patterns and relationships within data."
+                },
+                {
+                    "Service Name": "Flutter App Development",
+                    "Description": "Custom app development using Flutter technology.",
+                    "Category": "App Development",
+                    "Features": "Tailored-fit solutions leveraging Flutter's UI widgets."
+                },
+                {
+                    "Service Name": "Microservices Architecture",
+                    "Description": "Provider of Microservices Architecture solutions",
+                    "Category": "Information Technology",
+                    "Features": "Agile, scalable, reliable, and performant applications"
+                },
+                {
+                    "Service Name": "ExtJS Application Migration",
+                    "Description": "Re-engineer and update outdated legacy systems to new vitality.",
+                    "Category": "Technology Migration",
+                    "Features": "Scalability, easy maintenance, quick updates, comprehensive solutions"
+                },
+                {
+                    "Service Name": "Cloud Enablement",
+                    "Description": "Enabling cloud services for businesses",
+                    "Category": "IT Services",
+                    "Features": "Azure, AWS, data analytics, AI/ML, DevOps, product engineering"
+                },
+                {
+                    "Service Name": "Cloud Enablement",
+                    "Description": "Description of Cloud Enablement service.",
+                    "Category": "Cloud Services",
+                    "Features": "Key features of Cloud Enablement service."
+                },
+                {
+                    "Service Name": "Data Analytics & AI/ML",
+                    "Description": "Description of Data Analytics & AI/ML service.",
+                    "Category": "Data Services",
+                    "Features": "Key features of Data Analytics & AI/ML service."
+                },
+                {
+                    "Service Name": "Conversational AI",
+                    "Description": "Description of Conversational AI service.",
+                    "Category": "AI Services",
+                    "Features": "Key features of Conversational AI service."
+                },
+                {
+                    "Service Name": "Cloud Enablement",
+                    "Description": "Helping clients enable cloud services for their business operations.",
+                    "Category": "IT Services",
+                    "Features": "Scalable cloud solutions, cloud migration services, cloud security"
+                },
+                {
+                    "Service Name": "Data Analytics & AI/ML",
+                    "Description": "Providing data analytics and machine learning solutions.",
+                    "Category": "Data Solutions",
+                    "Features": "Advanced analytics, machine learning models, data visualization"
+                },
+                {
+                    "Service Name": "Cloud Enablement",
+                    "Description": "Enabling cloud services for businesses",
+                    "Category": "Cloud Services",
+                    "Features": "Scalable cloud solutions"
+                },
+                {
+                    "Service Name": "Data Analytics & AI/ML",
+                    "Description": "Data analytics and machine learning services",
+                    "Category": "Analytics",
+                    "Features": "Advanced AI algorithms"
+                },
+                {
+                    "Service Name": "Product Engineering",
+                    "Description": "Engineering customized products",
+                    "Category": "Engineering",
+                    "Features": "Innovative product design"
+                },
+                {
+                    "Service Name": "DevOps Testing Services",
+                    "Description": "Specialized capabilities for Agile and DevOps testing.",
+                    "Category": "IT Services",
+                    "Features": [
+                        "DevOps QA Testing",
+                        "Test Advisory",
+                        "Test Automation",
+                        "Performance Testing",
+                        "Security Testing"
+                    ]
+                },
+                {
+                    "Service Name": "Data Visualization",
+                    "Description": "Description of Data Visualization service.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Data Visualization service."
+                },
+                {
+                    "Service Name": "Data Engineering Services",
+                    "Description": "Description of Data Engineering Services.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Data Engineering Services."
+                },
+                {
+                    "Service Name": "Data Warehousing",
+                    "Description": "Description of Data Warehousing service.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Data Warehousing service."
+                },
+                {
+                    "Service Name": "Data Quality and Governance",
+                    "Description": "Description of Data Quality and Governance service.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Data Quality and Governance service."
+                },
+                {
+                    "Service Name": "Data Integration and Modernization",
+                    "Description": "Description of Data Integration and Modernization service.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Data Integration and Modernization service."
+                },
+                {
+                    "Service Name": "Master Data Management (MDM) Services",
+                    "Description": "Description of MDM Services.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of MDM Services."
+                },
+                {
+                    "Service Name": "Strategy and Consulting",
+                    "Description": "Description of Strategy and Consulting service.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Strategy and Consulting service."
+                },
+                {
+                    "Service Name": "Computer Vision",
+                    "Description": "Description of Computer Vision service.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Computer Vision service."
+                },
+                {
+                    "Service Name": "Predictive Analytics",
+                    "Description": "Description of Predictive Analytics service.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Predictive Analytics service."
+                },
+                {
+                    "Service Name": "Cloud Native MLOps \u2013 Services",
+                    "Description": "Description of Cloud Native MLOps \u2013 Services.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Cloud Native MLOps \u2013 Services."
+                },
+                {
+                    "Service Name": "Master Data Management (MDM) Services",
+                    "Description": "Services related to managing master data for organizations.",
+                    "Category": "Data Management",
+                    "Features": "Data accessibility and security"
+                },
+                {
+                    "Service Name": "Data Visualization",
+                    "Description": "Services related to visualizing data for insights and decision-making.",
+                    "Category": "Data Analytics",
+                    "Features": "Visual dashboards and reports"
+                },
+                {
+                    "Service Name": "Data Engineering Services",
+                    "Description": "Services related to data engineering for data-driven offerings.",
+                    "Category": "Data Engineering",
+                    "Features": "Value generation from data"
+                },
+                {
+                    "Service Name": "Data Analytics Services",
+                    "Description": "Empower the analytics pipeline and generate actionable insights.",
+                    "Category": "IT Services",
+                    "Features": "Access insight-rich data, Data maturity assessment, Data sanitation"
+                },
+                {
+                    "Service Name": "Conversational AI",
+                    "Description": "Not available",
+                    "Category": "AI Services",
+                    "Features": "Not available"
+                }
+            ]
+        },
+        "Technologies": {
+            "Technologies Used": [
+                {
+                    "Technology Name": "Large Language Model (LLM)",
+                    "Application": "Used for diverse use cases such as app development, user experience enhancement, and process automation.",
+                    "Partnerships": "Not specified"
+                },
+                {
+                    "Technology Name": "Natural Language Processing (NLP)",
+                    "Application": "Utilized for conversational AI, data synthesis, and insights generation.",
+                    "Partnerships": "Not specified"
+                },
+                {
+                    "Technology Name": "Technology 1",
+                    "Application": "How the technology is used",
+                    "Partnerships": [
+                        "Partner 1",
+                        "Partner 2"
+                    ]
+                },
+                {
+                    "Technology Name": "Technology 2",
+                    "Application": "How the technology is used",
+                    "Partnerships": [
+                        "Partner 1",
+                        "Partner 2"
+                    ]
+                },
+                {
+                    "Technology Name": "Large Language Model (LLM)",
+                    "Application": "Used in various solutions and services.",
+                    "Partnerships": []
+                },
+                {
+                    "Technology Name": "Natural Language Processing (NLP)",
+                    "Application": "Utilized in language-related solutions.",
+                    "Partnerships": []
+                },
+                {
+                    "Technology Name": "LangChain Solutions",
+                    "Application": "Application description here",
+                    "Partnerships": []
+                },
+                {
+                    "Technology Name": "Flutter",
+                    "Application": "App development platform",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Microsoft",
+                    "Application": "Used in product offerings",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Angular",
+                    "Application": "Used in product offerings",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Flutter",
+                    "Application": "Used in product offerings",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Microservices",
+                    "Application": "Core technology used in solutions",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "React JS",
+                    "Application": "Used in product offerings",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "React Native",
+                    "Application": "Used in product offerings",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Sencha",
+                    "Application": "Used in product offerings",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Xamarin",
+                    "Application": "Used in product offerings",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Ext JS",
+                    "Application": "Migration of Ext JS applications to new frameworks",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "React",
+                    "Application": "Framework for migrating applications",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Angular",
+                    "Application": "Framework for migrating applications",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Microsoft",
+                    "Application": "Utilized in various solutions and services.",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Angular",
+                    "Application": "Utilized in web application development.",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "React JS",
+                    "Application": "Used for front-end development.",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Microsoft",
+                    "Application": "Product development and services",
+                    "Partnerships": ""
+                },
+                {
+                    "Technology Name": "Angular",
+                    "Application": "Web development",
+                    "Partnerships": ""
+                },
+                {
+                    "Technology Name": "Flutter",
+                    "Application": "Mobile app development",
+                    "Partnerships": ""
+                },
+                {
+                    "Technology Name": "Microsoft",
+                    "Application": "Used in various solutions and services.",
+                    "Partnerships": "Partnerships with Microsoft."
+                },
+                {
+                    "Technology Name": "Angular",
+                    "Application": "Used in web development.",
+                    "Partnerships": "No specific partnerships mentioned."
+                },
+                {
+                    "Technology Name": "React JS",
+                    "Application": "Used in web development.",
+                    "Partnerships": "No specific partnerships mentioned."
+                },
+                {
+                    "Technology Name": "React JS",
+                    "Application": "Used for web and mobile application development",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "Microservices",
+                    "Application": "Utilized for agility, scalability, maintenance, performance, and security",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "Microsoft Azure",
+                    "Application": "Utilized for cloud services and solutions.",
+                    "Partnerships": "Microsoft Partner Network"
+                },
+                {
+                    "Technology Name": "AWS",
+                    "Application": "Utilized for cloud computing services.",
+                    "Partnerships": "Amazon Partner Network"
+                },
+                {
+                    "Technology Name": "Flutter",
+                    "Application": "Mobile app development",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "Angular",
+                    "Application": "Web development",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "Python",
+                    "Application": "Application development",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "PostgreSQL",
+                    "Application": "Database management",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "MySQL",
+                    "Application": "Database management",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "MongoDB",
+                    "Application": "Database management",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "AWS Cloud Computing",
+                    "Application": "Cloud services",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "Twilio",
+                    "Application": "Communication services",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "ADempiere",
+                    "Application": "Enterprise resource planning",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "Elasticsearch",
+                    "Application": "Search and analytics",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "DevTestOps",
+                    "Application": "Used in DevOps testing services.",
+                    "Partnerships": "Technology partners or alliances"
+                },
+                {
+                    "Technology Name": "AIOps",
+                    "Application": "Utilized in continuous testing.",
+                    "Partnerships": "Technology partners or alliances"
+                },
+                {
+                    "Technology Name": "Large Language Model (LLM)",
+                    "Application": "How LLM is used in the company\u2019s operations or offerings.",
+                    "Partnerships": "Technology partners or alliances related to LLM."
+                },
+                {
+                    "Technology Name": "Natural Language Processing (NLP)",
+                    "Application": "How NLP is used in the company\u2019s operations or offerings.",
+                    "Partnerships": "Technology partners or alliances related to NLP."
+                },
+                {
+                    "Technology Name": "Large Language Model (LLM)",
+                    "Application": "Utilized for various services and solutions.",
+                    "Partnerships": "Partnerships information not provided"
+                },
+                {
+                    "Technology Name": "Natural Language Processing (NLP)",
+                    "Application": "Utilized for language-related solutions.",
+                    "Partnerships": "Partnerships information not provided"
+                },
+                {
+                    "Technology Name": "LangChain",
+                    "Application": "Utilized for generative AI solutions.",
+                    "Partnerships": "Partnerships information not provided"
+                },
+                {
+                    "Technology Name": "Large Language Model (LLM)",
+                    "Application": "Used in the company's operations.",
+                    "Partnerships": "Not available"
+                },
+                {
+                    "Technology Name": "Natural Language Processing (NLP)",
+                    "Application": "Used in the company's operations.",
+                    "Partnerships": "Not available"
+                },
+                {
+                    "Technology Name": "LangChain Solutions",
+                    "Application": "Not available",
+                    "Partnerships": "Not available"
+                }
+            ]
+        },
+        "Basic Company Information": {
+            "Company Name": "WalkingTree Technologies",
+            "Website URL": "https://walkingtree.tech/",
+            "LinkedIn URL": "LinkedIn profile URL",
+            "Logo": "Link to the company\u2019s logo"
+        },
+        "Company Overview": {
+            "Description": "Not Available",
+            "Mission Statement": "Not Available",
+            "Founding Date": "Not Available",
+            "Founders": "Not Available",
+            "Headquarters": "Not Available",
+            "Industry": "Not Available"
+        },
+        "Leadership and Team": {
+            "CEO": "Not Available",
+            "Leadership Team": "Names and profiles of key leadership team members not provided",
+            "Employee Count": "Number of employees not provided",
+            "Company Culture": "Information about the company\u2019s culture and values not provided"
+        },
+        "Social Media Presence": {
+            "LinkedIn": "https://www.linkedin.com/company/walkingtree-technologies/",
+            "Twitter": "Link to Twitter profile",
+            "Facebook": "Link to Facebook profile",
+            "Instagram": "Link to Instagram profile"
+        },
+        "News and Updates": {
+            "Recent News": [
+                {
+                    "Title": "Title of the news article",
+                    "Date": "Date of publication",
+                    "Source": "Source of the news",
+                    "Summary": "Brief summary of the news article"
+                },
+                {
+                    "Title": "Title of the news article",
+                    "Date": "Date of publication",
+                    "Source": "Source of the news",
+                    "Summary": "Brief summary of the news article"
+                },
+                {
+                    "Title": "Apache Superset: Exploring big data canvas with future-ready custom data visualization tool",
+                    "Date": "Not available",
+                    "Source": "Not available",
+                    "Summary": "Data visualization can be the new storyboard for your business strategy and planning."
+                },
+                {
+                    "Title": "Data build tool (dbt) \u2013 Transforming your data like no other",
+                    "Date": "Not available",
+                    "Source": "Not available",
+                    "Summary": "Data transformation plays a mission-critical role in digital transformation initiatives."
+                },
+                {
+                    "Title": "Transforming raw data into datasets using Airbyte with dbt",
+                    "Date": "Not available",
+                    "Source": "Not available",
+                    "Summary": "Transformed data is easier to consume for humans and machines alike."
+                },
+                {
+                    "Title": "Integrating Azure ML, Power Apps and Power Automate",
+                    "Date": "June 21, 2024",
+                    "Source": "WalkingTree Technologies",
+                    "Summary": "Article about integrating technologies for business growth"
+                },
+                {
+                    "Title": "Quality Assurance in DevOps for Consistent Performance",
+                    "Date": "June 19, 2024",
+                    "Source": "WalkingTree Technologies",
+                    "Summary": "Article about ensuring consistent performance in DevOps"
+                },
+                {
+                    "Title": "Enhancing Business Growth through Advanced Generative AI Accelerator Solutions",
+                    "Date": "June 12, 2024",
+                    "Source": "WalkingTree Technologies",
+                    "Summary": "Article about using AI solutions for business growth"
+                },
+                {
+                    "Title": "Integrating Azure ML, Power Apps and Power Automate",
+                    "Date": "June 21, 2024",
+                    "Source": "Source not provided",
+                    "Summary": "Recent blog post about integrating Azure ML, Power Apps, and Power Automate."
+                },
+                {
+                    "Title": "Quality Assurance in DevOps for Consistent Performance",
+                    "Date": "June 19, 2024",
+                    "Source": "Source not provided",
+                    "Summary": "Recent blog post about quality assurance in DevOps for consistent performance."
+                },
+                {
+                    "Title": "Enhancing Business Growth through Advanced Generative AI Accelerator Solutions",
+                    "Date": "June 12, 2024",
+                    "Source": "Source not provided",
+                    "Summary": "Recent blog post about enhancing business growth through advanced generative AI accelerator solutions."
+                },
+                {
+                    "Title": "Integrating Azure ML, Power Apps and Power Automate",
+                    "Date": "June 21, 2024",
+                    "Source": "Company Blog",
+                    "Summary": "Article about integrating Azure ML with Power Apps and Power Automate."
+                },
+                {
+                    "Title": "Quality Assurance in DevOps for Consistent Performance",
+                    "Date": "June 19, 2024",
+                    "Source": "Company Blog",
+                    "Summary": "Article discussing quality assurance practices in DevOps."
+                },
+                {
+                    "Title": "Enhancing Business Growth through Advanced Generative AI Accelerator Solutions",
+                    "Date": "June 12, 2024",
+                    "Source": "Company Blog",
+                    "Summary": "Article highlighting the use of generative AI for business growth."
+                },
+                {
+                    "Title": "Integrating Azure ML, Power Apps and Power Automate",
+                    "Date": "June 21, 2024",
+                    "Source": "Source not provided",
+                    "Summary": "Summary of the news article."
+                },
+                {
+                    "Title": "Quality Assurance in DevOps for Consistent Performance",
+                    "Date": "June 19, 2024",
+                    "Source": "Source not provided",
+                    "Summary": "Summary of the news article."
+                },
+                {
+                    "Title": "Enhancing Business Growth through Advanced Generative AI Accelerator Solutions",
+                    "Date": "June 12, 2024",
+                    "Source": "Source not provided",
+                    "Summary": "Summary of the news article."
+                },
+                {
+                    "Title": "Integrating Azure ML, Power Apps and Power Automate",
+                    "Date": "June 21, 2024",
+                    "Source": "Source of the news",
+                    "Summary": "Brief summary of the news article"
+                },
+                {
+                    "Title": "Quality Assurance in DevOps for Consistent Performance",
+                    "Date": "June 19, 2024",
+                    "Source": "Source of the news",
+                    "Summary": "Brief summary of the news article"
+                },
+                {
+                    "Title": "Enhancing Business Growth through Advanced Generative AI Accelerator Solutions",
+                    "Date": "June 12, 2024",
+                    "Source": "Source of the news",
+                    "Summary": "Brief summary of the news article"
+                }
+            ]
+        },
+        "Company Information": {
+            "Company Name": "Not Available",
+            "Website URL": "Not Available",
+            "LinkedIn URL": "Not Available",
+            "Logo": "Not Available"
+        }
+    },
+    "linkedin": {
+        "Products and Services": {
+            "Products": [
+                {
+                    "Product Name": "LLM-powered App Development",
+                    "Description": "Harness smart algorithms to design intuitive and engaging end-user experiences, automate coding tasks, and innovate at the speed of thought.",
+                    "Category": "App Development",
+                    "Features": "Smart algorithms, intuitive user experiences, coding automation"
+                },
+                {
+                    "Product Name": "Generative AI for User Experience",
+                    "Description": "Enhance user interactions with smart, conversational AI chatbots and empower sales teams with virtual assistants rich in product insights and tailored offers.",
+                    "Category": "AI User Experience",
+                    "Features": "Conversational AI, virtual assistants, tailored offers"
+                },
+                {
+                    "Product Name": "Generative AI for Process Automation",
+                    "Description": "Transform routine workflows with AI-driven automation tools, streamlining operations and boosting efficiency through data-driven insights for optimal process management.",
+                    "Category": "Process Automation",
+                    "Features": "AI-driven automation, data-driven insights, process management"
+                },
+                {
+                    "Product Name": "Product 1",
+                    "Description": "Description of Product 1",
+                    "Category": "Category of Product 1",
+                    "Features": [
+                        "Feature 1",
+                        "Feature 2"
+                    ]
+                },
+                {
+                    "Product Name": "Product 2",
+                    "Description": "Description of Product 2",
+                    "Category": "Category of Product 2",
+                    "Features": [
+                        "Feature 1",
+                        "Feature 2"
+                    ]
+                },
+                {
+                    "Product Name": "ExtJS Migration Solutions",
+                    "Description": "Re-architect and migrate ExtJS applications to new technologies.",
+                    "Category": "Technology Migration",
+                    "Features": "Smooth technology shift, cost reduction, data security enhancement, business growth, enhanced scalability"
+                },
+                {
+                    "Product Name": "CRM Dashboard",
+                    "Description": "Safe and secure CRM dashboard solution.",
+                    "Category": "Business Software",
+                    "Features": "Provides a clear overview of customer data and interactions."
+                },
+                {
+                    "Product Name": "Khata App",
+                    "Description": "Financial management app for businesses.",
+                    "Category": "Finance",
+                    "Features": "Helps in managing accounts and transactions."
+                },
+                {
+                    "Product Name": "Enterprise Content Management Solutions - CMS Services",
+                    "Description": "Services related to content management systems",
+                    "Category": "IT Services",
+                    "Features": "Theme development, custom modules, content migration, workflows"
+                },
+                {
+                    "Product Name": "EngazeWell \u2013 Mobile App",
+                    "Description": "Description of the mobile app",
+                    "Category": "Mobile Application",
+                    "Features": "List of key features"
+                },
+                {
+                    "Product Name": "Little Tales \u2013 A Web App for Writers",
+                    "Description": "Description of the web app",
+                    "Category": "Web Application",
+                    "Features": "List of key features"
+                },
+                {
+                    "Product Name": "Responsive app for Sencha Theming Contest",
+                    "Description": "Description of the responsive app",
+                    "Category": "Web Application",
+                    "Features": "List of key features"
+                },
+                {
+                    "Product Name": "LangChain Solutions",
+                    "Description": "Description of LangChain Solutions.",
+                    "Category": "Technology",
+                    "Features": "Key features of LangChain Solutions."
+                },
+                {
+                    "Product Name": "TAP eCAI",
+                    "Description": "Description of TAP eCAI.",
+                    "Category": "Technology",
+                    "Features": "Key features of TAP eCAI."
+                },
+                {
+                    "Product Name": "Factoid Intellexi",
+                    "Description": "Description of Factoid Intellexi.",
+                    "Category": "Technology",
+                    "Features": "Key features of Factoid Intellexi."
+                },
+                {
+                    "Product Name": "Aspira Resume Parser",
+                    "Description": "Description of Aspira Resume Parser.",
+                    "Category": "Technology",
+                    "Features": "Key features of Aspira Resume Parser."
+                },
+                {
+                    "Product Name": "Data Engineering Services",
+                    "Description": "Create meaningful trajectory for analytics-driven operations and generate actionable business insights.",
+                    "Category": "IT Services",
+                    "Features": "Data Discovery, Data Maturity Assessment, Data Sanitation, Data Modeling"
+                }
+            ],
+            "Services": [
+                {
+                    "Service Name": "AI Strategy and Roadmap Planning",
+                    "Description": "We evaluate your AI readiness and craft an actionable GenAI adoption plan, ensuring seamless integration, intuitive prioritization, and effective risk management.",
+                    "Category": "AI Strategy",
+                    "Features": "AI readiness evaluation, adoption plan, risk management"
+                },
+                {
+                    "Service Name": "Generative AI Integration",
+                    "Description": "We offer expert guidance and tailored solutions for the seamless and responsible incorporation of Generative AI into your business workflows, boosting efficiency and innovation.",
+                    "Category": "AI Integration",
+                    "Features": "Expert guidance, tailored solutions, workflow incorporation"
+                },
+                {
+                    "Service Name": "Model Customization",
+                    "Description": "We tailor and fine-tune Generative AI models to your unique needs meeting desired performance metrics and ensuring optimal performance and specific business outcomes.",
+                    "Category": "AI Model Customization",
+                    "Features": "Model tailoring, performance metrics, business outcomes"
+                },
+                {
+                    "Service Name": "Data Synthesis and Augmentation",
+                    "Description": "Generate synthetic data sets that mimic real-world data, enabling more robust model training and testing without compromising privacy or security.",
+                    "Category": "Data Synthesis",
+                    "Features": "Synthetic data generation, robust model training, privacy protection"
+                },
+                {
+                    "Service Name": "Conversational AI",
+                    "Description": "Elevate customer engagement with sophisticated AI chatbots and virtual assistants that provide seamless, intuitive, and human-like interactions across various platforms.",
+                    "Category": "AI Customer Engagement",
+                    "Features": "Chatbots, virtual assistants, customer engagement"
+                },
+                {
+                    "Service Name": "AI-Driven Insights and Analytics",
+                    "Description": "Transform data into actionable insights with AI-powered analytics, uncovering trends, patterns, and predictions to inform strategic decision-making and drive business growth.",
+                    "Category": "AI Analytics",
+                    "Features": "Actionable insights, trend analysis, strategic decision-making"
+                },
+                {
+                    "Service Name": "LLMOps",
+                    "Description": "We at WalkingTree operationalize LLM-based apps through LLMOps services ensuring reliable deployment and scaling of LLM-based applications while emphasizing ethical AI practices.",
+                    "Category": "LLM Operations",
+                    "Features": "Operationalization, deployment, scaling, ethical AI practices"
+                },
+                {
+                    "Service Name": "Service 1",
+                    "Description": "Description of Service 1",
+                    "Category": "Category of Service 1",
+                    "Features": [
+                        "Feature 1",
+                        "Feature 2"
+                    ]
+                },
+                {
+                    "Service Name": "Service 2",
+                    "Description": "Description of Service 2",
+                    "Category": "Category of Service 2",
+                    "Features": [
+                        "Feature 1",
+                        "Feature 2"
+                    ]
+                },
+                {
+                    "Service Name": "Data Engineering Services",
+                    "Description": "Create meaningful trajectory for analytics-driven operations and generate actionable business insights through data engineering services.",
+                    "Category": "Analytics",
+                    "Features": []
+                },
+                {
+                    "Service Name": "Conversational AI",
+                    "Description": "Service description here",
+                    "Category": "AI Solutions",
+                    "Features": []
+                },
+                {
+                    "Service Name": "Generative AI Services",
+                    "Description": "Service description here",
+                    "Category": "AI Solutions",
+                    "Features": []
+                },
+                {
+                    "Service Name": "Data Visualization",
+                    "Description": "Service description here",
+                    "Category": "Data Analytics",
+                    "Features": []
+                },
+                {
+                    "Service Name": "Data Maturity Assessment",
+                    "Description": "Keep data fresh, contextually relevant, error-free, and inch-precise with rigorous maturity assessment.",
+                    "Category": "Data Services",
+                    "Features": "Identifying and getting rid of redundant, inaccurate, outdated, and irrelevant data."
+                },
+                {
+                    "Service Name": "Data Sanitation",
+                    "Description": "Sanitize data from all potential security threats and vulnerabilities consistently to keep business risks at bay.",
+                    "Category": "Data Services",
+                    "Features": "Preventing and controlling access to sensitive and mission-critical information."
+                },
+                {
+                    "Service Name": "Data Modeling",
+                    "Description": "Make data speak, act, and bring intelligent automation through powerful data modeling.",
+                    "Category": "Data Services",
+                    "Features": "Creating highly domain-optimized data models ensuring rich context-aware output for specific industry use cases."
+                },
+                {
+                    "Service Name": "Data Mining",
+                    "Description": "Dig deeper into the data pool to find the right trajectory of data-centric processes.",
+                    "Category": "Data Services",
+                    "Features": "Uncovering hidden patterns and relationships within data."
+                },
+                {
+                    "Service Name": "Flutter App Development",
+                    "Description": "Custom app development using Flutter technology.",
+                    "Category": "App Development",
+                    "Features": "Tailored-fit solutions leveraging Flutter's UI widgets."
+                },
+                {
+                    "Service Name": "Microservices Architecture",
+                    "Description": "Provider of Microservices Architecture solutions",
+                    "Category": "Information Technology",
+                    "Features": "Agile, scalable, reliable, and performant applications"
+                },
+                {
+                    "Service Name": "ExtJS Application Migration",
+                    "Description": "Re-engineer and update outdated legacy systems to new vitality.",
+                    "Category": "Technology Migration",
+                    "Features": "Scalability, easy maintenance, quick updates, comprehensive solutions"
+                },
+                {
+                    "Service Name": "Cloud Enablement",
+                    "Description": "Enabling cloud services for businesses",
+                    "Category": "IT Services",
+                    "Features": "Azure, AWS, data analytics, AI/ML, DevOps, product engineering"
+                },
+                {
+                    "Service Name": "Cloud Enablement",
+                    "Description": "Description of Cloud Enablement service.",
+                    "Category": "Cloud Services",
+                    "Features": "Key features of Cloud Enablement service."
+                },
+                {
+                    "Service Name": "Data Analytics & AI/ML",
+                    "Description": "Description of Data Analytics & AI/ML service.",
+                    "Category": "Data Services",
+                    "Features": "Key features of Data Analytics & AI/ML service."
+                },
+                {
+                    "Service Name": "Conversational AI",
+                    "Description": "Description of Conversational AI service.",
+                    "Category": "AI Services",
+                    "Features": "Key features of Conversational AI service."
+                },
+                {
+                    "Service Name": "Cloud Enablement",
+                    "Description": "Helping clients enable cloud services for their business operations.",
+                    "Category": "IT Services",
+                    "Features": "Scalable cloud solutions, cloud migration services, cloud security"
+                },
+                {
+                    "Service Name": "Data Analytics & AI/ML",
+                    "Description": "Providing data analytics and machine learning solutions.",
+                    "Category": "Data Solutions",
+                    "Features": "Advanced analytics, machine learning models, data visualization"
+                },
+                {
+                    "Service Name": "Cloud Enablement",
+                    "Description": "Enabling cloud services for businesses",
+                    "Category": "Cloud Services",
+                    "Features": "Scalable cloud solutions"
+                },
+                {
+                    "Service Name": "Data Analytics & AI/ML",
+                    "Description": "Data analytics and machine learning services",
+                    "Category": "Analytics",
+                    "Features": "Advanced AI algorithms"
+                },
+                {
+                    "Service Name": "Product Engineering",
+                    "Description": "Engineering customized products",
+                    "Category": "Engineering",
+                    "Features": "Innovative product design"
+                },
+                {
+                    "Service Name": "DevOps Testing Services",
+                    "Description": "Specialized capabilities for Agile and DevOps testing.",
+                    "Category": "IT Services",
+                    "Features": [
+                        "DevOps QA Testing",
+                        "Test Advisory",
+                        "Test Automation",
+                        "Performance Testing",
+                        "Security Testing"
+                    ]
+                },
+                {
+                    "Service Name": "Data Visualization",
+                    "Description": "Description of Data Visualization service.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Data Visualization service."
+                },
+                {
+                    "Service Name": "Data Engineering Services",
+                    "Description": "Description of Data Engineering Services.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Data Engineering Services."
+                },
+                {
+                    "Service Name": "Data Warehousing",
+                    "Description": "Description of Data Warehousing service.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Data Warehousing service."
+                },
+                {
+                    "Service Name": "Data Quality and Governance",
+                    "Description": "Description of Data Quality and Governance service.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Data Quality and Governance service."
+                },
+                {
+                    "Service Name": "Data Integration and Modernization",
+                    "Description": "Description of Data Integration and Modernization service.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Data Integration and Modernization service."
+                },
+                {
+                    "Service Name": "Master Data Management (MDM) Services",
+                    "Description": "Description of MDM Services.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of MDM Services."
+                },
+                {
+                    "Service Name": "Strategy and Consulting",
+                    "Description": "Description of Strategy and Consulting service.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Strategy and Consulting service."
+                },
+                {
+                    "Service Name": "Computer Vision",
+                    "Description": "Description of Computer Vision service.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Computer Vision service."
+                },
+                {
+                    "Service Name": "Predictive Analytics",
+                    "Description": "Description of Predictive Analytics service.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Predictive Analytics service."
+                },
+                {
+                    "Service Name": "Cloud Native MLOps \u2013 Services",
+                    "Description": "Description of Cloud Native MLOps \u2013 Services.",
+                    "Category": "Data Engineering",
+                    "Features": "Key features of Cloud Native MLOps \u2013 Services."
+                },
+                {
+                    "Service Name": "Master Data Management (MDM) Services",
+                    "Description": "Services related to managing master data for organizations.",
+                    "Category": "Data Management",
+                    "Features": "Data accessibility and security"
+                },
+                {
+                    "Service Name": "Data Visualization",
+                    "Description": "Services related to visualizing data for insights and decision-making.",
+                    "Category": "Data Analytics",
+                    "Features": "Visual dashboards and reports"
+                },
+                {
+                    "Service Name": "Data Engineering Services",
+                    "Description": "Services related to data engineering for data-driven offerings.",
+                    "Category": "Data Engineering",
+                    "Features": "Value generation from data"
+                },
+                {
+                    "Service Name": "Data Analytics Services",
+                    "Description": "Empower the analytics pipeline and generate actionable insights.",
+                    "Category": "IT Services",
+                    "Features": "Access insight-rich data, Data maturity assessment, Data sanitation"
+                },
+                {
+                    "Service Name": "Conversational AI",
+                    "Description": "Not available",
+                    "Category": "AI Services",
+                    "Features": "Not available"
+                }
+            ]
+        },
+        "Technologies": {
+            "Technologies Used": [
+                {
+                    "Technology Name": "Large Language Model (LLM)",
+                    "Application": "Used for diverse use cases such as app development, user experience enhancement, and process automation.",
+                    "Partnerships": "Not specified"
+                },
+                {
+                    "Technology Name": "Natural Language Processing (NLP)",
+                    "Application": "Utilized for conversational AI, data synthesis, and insights generation.",
+                    "Partnerships": "Not specified"
+                },
+                {
+                    "Technology Name": "Technology 1",
+                    "Application": "How the technology is used",
+                    "Partnerships": [
+                        "Partner 1",
+                        "Partner 2"
+                    ]
+                },
+                {
+                    "Technology Name": "Technology 2",
+                    "Application": "How the technology is used",
+                    "Partnerships": [
+                        "Partner 1",
+                        "Partner 2"
+                    ]
+                },
+                {
+                    "Technology Name": "Large Language Model (LLM)",
+                    "Application": "Used in various solutions and services.",
+                    "Partnerships": []
+                },
+                {
+                    "Technology Name": "Natural Language Processing (NLP)",
+                    "Application": "Utilized in language-related solutions.",
+                    "Partnerships": []
+                },
+                {
+                    "Technology Name": "LangChain Solutions",
+                    "Application": "Application description here",
+                    "Partnerships": []
+                },
+                {
+                    "Technology Name": "Flutter",
+                    "Application": "App development platform",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Microsoft",
+                    "Application": "Used in product offerings",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Angular",
+                    "Application": "Used in product offerings",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Flutter",
+                    "Application": "Used in product offerings",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Microservices",
+                    "Application": "Core technology used in solutions",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "React JS",
+                    "Application": "Used in product offerings",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "React Native",
+                    "Application": "Used in product offerings",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Sencha",
+                    "Application": "Used in product offerings",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Xamarin",
+                    "Application": "Used in product offerings",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Ext JS",
+                    "Application": "Migration of Ext JS applications to new frameworks",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "React",
+                    "Application": "Framework for migrating applications",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Angular",
+                    "Application": "Framework for migrating applications",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Microsoft",
+                    "Application": "Utilized in various solutions and services.",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Angular",
+                    "Application": "Utilized in web application development.",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "React JS",
+                    "Application": "Used for front-end development.",
+                    "Partnerships": "Partnerships not provided"
+                },
+                {
+                    "Technology Name": "Microsoft",
+                    "Application": "Product development and services",
+                    "Partnerships": ""
+                },
+                {
+                    "Technology Name": "Angular",
+                    "Application": "Web development",
+                    "Partnerships": ""
+                },
+                {
+                    "Technology Name": "Flutter",
+                    "Application": "Mobile app development",
+                    "Partnerships": ""
+                },
+                {
+                    "Technology Name": "Microsoft",
+                    "Application": "Used in various solutions and services.",
+                    "Partnerships": "Partnerships with Microsoft."
+                },
+                {
+                    "Technology Name": "Angular",
+                    "Application": "Used in web development.",
+                    "Partnerships": "No specific partnerships mentioned."
+                },
+                {
+                    "Technology Name": "React JS",
+                    "Application": "Used in web development.",
+                    "Partnerships": "No specific partnerships mentioned."
+                },
+                {
+                    "Technology Name": "React JS",
+                    "Application": "Used for web and mobile application development",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "Microservices",
+                    "Application": "Utilized for agility, scalability, maintenance, performance, and security",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "Microsoft Azure",
+                    "Application": "Utilized for cloud services and solutions.",
+                    "Partnerships": "Microsoft Partner Network"
+                },
+                {
+                    "Technology Name": "AWS",
+                    "Application": "Utilized for cloud computing services.",
+                    "Partnerships": "Amazon Partner Network"
+                },
+                {
+                    "Technology Name": "Flutter",
+                    "Application": "Mobile app development",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "Angular",
+                    "Application": "Web development",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "Python",
+                    "Application": "Application development",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "PostgreSQL",
+                    "Application": "Database management",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "MySQL",
+                    "Application": "Database management",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "MongoDB",
+                    "Application": "Database management",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "AWS Cloud Computing",
+                    "Application": "Cloud services",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "Twilio",
+                    "Application": "Communication services",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "ADempiere",
+                    "Application": "Enterprise resource planning",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "Elasticsearch",
+                    "Application": "Search and analytics",
+                    "Partnerships": "Partnership information not provided"
+                },
+                {
+                    "Technology Name": "DevTestOps",
+                    "Application": "Used in DevOps testing services.",
+                    "Partnerships": "Technology partners or alliances"
+                },
+                {
+                    "Technology Name": "AIOps",
+                    "Application": "Utilized in continuous testing.",
+                    "Partnerships": "Technology partners or alliances"
+                },
+                {
+                    "Technology Name": "Large Language Model (LLM)",
+                    "Application": "How LLM is used in the company\u2019s operations or offerings.",
+                    "Partnerships": "Technology partners or alliances related to LLM."
+                },
+                {
+                    "Technology Name": "Natural Language Processing (NLP)",
+                    "Application": "How NLP is used in the company\u2019s operations or offerings.",
+                    "Partnerships": "Technology partners or alliances related to NLP."
+                },
+                {
+                    "Technology Name": "Large Language Model (LLM)",
+                    "Application": "Utilized for various services and solutions.",
+                    "Partnerships": "Partnerships information not provided"
+                },
+                {
+                    "Technology Name": "Natural Language Processing (NLP)",
+                    "Application": "Utilized for language-related solutions.",
+                    "Partnerships": "Partnerships information not provided"
+                },
+                {
+                    "Technology Name": "LangChain",
+                    "Application": "Utilized for generative AI solutions.",
+                    "Partnerships": "Partnerships information not provided"
+                },
+                {
+                    "Technology Name": "Large Language Model (LLM)",
+                    "Application": "Used in the company's operations.",
+                    "Partnerships": "Not available"
+                },
+                {
+                    "Technology Name": "Natural Language Processing (NLP)",
+                    "Application": "Used in the company's operations.",
+                    "Partnerships": "Not available"
+                },
+                {
+                    "Technology Name": "LangChain Solutions",
+                    "Application": "Not available",
+                    "Partnerships": "Not available"
+                }
+            ]
+        },
+        "Basic Company Information": {
+            "Company Name": "WalkingTree Technologies",
+            "Website URL": "https://walkingtree.tech/",
+            "LinkedIn URL": "LinkedIn profile URL",
+            "Logo": "Link to the company\u2019s logo"
+        },
+        "Company Overview": {
+            "Description": "Not Available",
+            "Mission Statement": "Not Available",
+            "Founding Date": "Not Available",
+            "Founders": "Not Available",
+            "Headquarters": "Not Available",
+            "Industry": "Not Available"
+        },
+        "Leadership and Team": {
+            "CEO": "Not Available",
+            "Leadership Team": "Names and profiles of key leadership team members not provided",
+            "Employee Count": "Number of employees not provided",
+            "Company Culture": "Information about the company\u2019s culture and values not provided"
+        },
+        "Social Media Presence": {
+            "LinkedIn": "https://www.linkedin.com/company/walkingtree-technologies/",
+            "Twitter": "Link to Twitter profile",
+            "Facebook": "Link to Facebook profile",
+            "Instagram": "Link to Instagram profile"
+        },
+        "News and Updates": {
+            "Recent News": [
+                {
+                    "Title": "Title of the news article",
+                    "Date": "Date of publication",
+                    "Source": "Source of the news",
+                    "Summary": "Brief summary of the news article"
+                },
+                {
+                    "Title": "Title of the news article",
+                    "Date": "Date of publication",
+                    "Source": "Source of the news",
+                    "Summary": "Brief summary of the news article"
+                },
+                {
+                    "Title": "Apache Superset: Exploring big data canvas with future-ready custom data visualization tool",
+                    "Date": "Not available",
+                    "Source": "Not available",
+                    "Summary": "Data visualization can be the new storyboard for your business strategy and planning."
+                },
+                {
+                    "Title": "Data build tool (dbt) \u2013 Transforming your data like no other",
+                    "Date": "Not available",
+                    "Source": "Not available",
+                    "Summary": "Data transformation plays a mission-critical role in digital transformation initiatives."
+                },
+                {
+                    "Title": "Transforming raw data into datasets using Airbyte with dbt",
+                    "Date": "Not available",
+                    "Source": "Not available",
+                    "Summary": "Transformed data is easier to consume for humans and machines alike."
+                },
+                {
+                    "Title": "Integrating Azure ML, Power Apps and Power Automate",
+                    "Date": "June 21, 2024",
+                    "Source": "WalkingTree Technologies",
+                    "Summary": "Article about integrating technologies for business growth"
+                },
+                {
+                    "Title": "Quality Assurance in DevOps for Consistent Performance",
+                    "Date": "June 19, 2024",
+                    "Source": "WalkingTree Technologies",
+                    "Summary": "Article about ensuring consistent performance in DevOps"
+                },
+                {
+                    "Title": "Enhancing Business Growth through Advanced Generative AI Accelerator Solutions",
+                    "Date": "June 12, 2024",
+                    "Source": "WalkingTree Technologies",
+                    "Summary": "Article about using AI solutions for business growth"
+                },
+                {
+                    "Title": "Integrating Azure ML, Power Apps and Power Automate",
+                    "Date": "June 21, 2024",
+                    "Source": "Source not provided",
+                    "Summary": "Recent blog post about integrating Azure ML, Power Apps, and Power Automate."
+                },
+                {
+                    "Title": "Quality Assurance in DevOps for Consistent Performance",
+                    "Date": "June 19, 2024",
+                    "Source": "Source not provided",
+                    "Summary": "Recent blog post about quality assurance in DevOps for consistent performance."
+                },
+                {
+                    "Title": "Enhancing Business Growth through Advanced Generative AI Accelerator Solutions",
+                    "Date": "June 12, 2024",
+                    "Source": "Source not provided",
+                    "Summary": "Recent blog post about enhancing business growth through advanced generative AI accelerator solutions."
+                },
+                {
+                    "Title": "Integrating Azure ML, Power Apps and Power Automate",
+                    "Date": "June 21, 2024",
+                    "Source": "Company Blog",
+                    "Summary": "Article about integrating Azure ML with Power Apps and Power Automate."
+                },
+                {
+                    "Title": "Quality Assurance in DevOps for Consistent Performance",
+                    "Date": "June 19, 2024",
+                    "Source": "Company Blog",
+                    "Summary": "Article discussing quality assurance practices in DevOps."
+                },
+                {
+                    "Title": "Enhancing Business Growth through Advanced Generative AI Accelerator Solutions",
+                    "Date": "June 12, 2024",
+                    "Source": "Company Blog",
+                    "Summary": "Article highlighting the use of generative AI for business growth."
+                },
+                {
+                    "Title": "Integrating Azure ML, Power Apps and Power Automate",
+                    "Date": "June 21, 2024",
+                    "Source": "Source not provided",
+                    "Summary": "Summary of the news article."
+                },
+                {
+                    "Title": "Quality Assurance in DevOps for Consistent Performance",
+                    "Date": "June 19, 2024",
+                    "Source": "Source not provided",
+                    "Summary": "Summary of the news article."
+                },
+                {
+                    "Title": "Enhancing Business Growth through Advanced Generative AI Accelerator Solutions",
+                    "Date": "June 12, 2024",
+                    "Source": "Source not provided",
+                    "Summary": "Summary of the news article."
+                },
+                {
+                    "Title": "Integrating Azure ML, Power Apps and Power Automate",
+                    "Date": "June 21, 2024",
+                    "Source": "Source of the news",
+                    "Summary": "Brief summary of the news article"
+                },
+                {
+                    "Title": "Quality Assurance in DevOps for Consistent Performance",
+                    "Date": "June 19, 2024",
+                    "Source": "Source of the news",
+                    "Summary": "Brief summary of the news article"
+                },
+                {
+                    "Title": "Enhancing Business Growth through Advanced Generative AI Accelerator Solutions",
+                    "Date": "June 12, 2024",
+                    "Source": "Source of the news",
+                    "Summary": "Brief summary of the news article"
+                }
+            ]
+        },
+        "Company Information": {
+            "Company Name": "Not Available",
+            "Website URL": "Not Available",
+            "LinkedIn URL": "Not Available",
+            "Logo": "Not Available"
+        }
+    }
+}
